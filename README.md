@@ -41,8 +41,6 @@ Jokes	pyjokes
 Memory Storage	Local text file (jarvis_memory.txt)
 Installation & Setup
 1. Clone the Repository
-git clone https://github.com/<your-username>/jarvis-ai-assistant.git
-cd jarvis-ai-assistant
 
 2. Install Dependencies
 pip install -r requirements.txt
@@ -76,13 +74,14 @@ jarvis-ai-assistant/
 ├── requirements.txt         # Dependencies
 └── README.md                # Documentation
 
-Future Roadmap
+Upcoming Features
 Version	Feature
 v0.2	Wake word detection ("Hey Jarvis")
 v0.3	SQL-based memory system
 v0.4	Gesture and face recognition integration
 v0.5	Bluetooth smartwatch connection
 v1.0	Holographic interface (AR/projection UI)
+
 Vision Statement
 
 To create a fully interactive personal assistant — wearable, voice-aware, gesture-controlled, and holographic — inspired by Tony Stark’s JARVIS.
@@ -90,8 +89,7 @@ To create a fully interactive personal assistant — wearable, voice-aware, gest
 Author
 
 Siddharth Ravada
-Future AI Architect & Creator of StarkTech
-Contact: (Add your email or portfolio here)
+Contact: ravadasiddharth@gmail.com
 
 Credits
 
